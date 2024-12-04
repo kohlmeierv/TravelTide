@@ -1,8 +1,8 @@
 # Welcome  
 Welcome to the **TravelTide** project!  
-This repository represents the culmination of my advanced education in **Data Analytics & Science** at [Masterschool](https://de.masterschool.com/). The primary objective is to use **Machine Learning (ML)** methods to perform **customer segmentation**.  
+This repository represents the culmination of my advanced education in **Data Analytics & Science** at [Masterschool](https://de.masterschool.com/). The primary objective is to use **Machine Learning (ML)** methods to perform **Customer Segmentation**. The Traveltide Dataset is publicly available.
 
-Using publicly available datasets, the project implements various techniques for data preprocessing, clustering, and visualization to derive actionable insights into customer behaviors. All files necessary to run the segmentation algorithm and explore the results are included in this repository.  
+This project implements various techniques for data preprocessing, KMeans unspuervised clustering and visualization to derive actionable insights into customer behaviors. All files necessary to run the segmentation algorithm and explore the results are included in this repository.  
 
 
 ---
