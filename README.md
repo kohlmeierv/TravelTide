@@ -1,9 +1,8 @@
 # Welcome  
 Welcome to the **TravelTide** project!  
-This repository represents the culmination of my advanced education in **Data Analytics & Science** at [Masterschool](https://de.masterschool.com/). The primary objective is to use **Machine Learning (ML)** methods to perform **Customer Segmentation**. The Traveltide Dataset is publicly available.
+This repository represents the culmination of my advanced education in **Data Analytics & Science** at [Masterschool](https://de.masterschool.com/). The primary objective is to use **Machine Learning (ML)** methods to perform **Customer Segmentation** on the, publicly available, Traveltide Dataset.
 
-This project implements various techniques for data preprocessing, KMeans unspuervised clustering and visualization to derive actionable insights into customer behaviors. All files necessary to run the segmentation algorithm and explore the results are included in this repository.  
-
+This project implements various techniques for data preprocessing, KMeans for unsupervised clustering and visualization to derive actionable insights into customer behaviors. All files necessary to run the segmentation algorithm and explore the results are included in this repository.
 
 ---
 
@@ -13,14 +12,14 @@ This project implements various techniques for data preprocessing, KMeans unspue
   - [Dependencies](#dependencies)  
 - [Project Objectives](#goals-for-this-notebook)  
   - [Data Handling](#data-handling)  
-  - [Data Analysis](#data-analysis)  
+  - [Data Analysis](#data-analysis)
 - [License](#license)  
 
 ---
 
 # Installation  
 
-To recreate the project environment and explore the notebook interactively, follow these steps carefully.  
+To recreate the project environment and explore the notebook interactively, you can follow these steps:  
 
 ### How to Run Interactively  
 
@@ -92,7 +91,7 @@ The following libraries and frameworks are required:
 - `sklearn.cluster` (KMeans)  
 - `sklearn.metrics` (silhouette_score, accuracy_score, confusion_matrix, roc_auc_score)  
 
-All dependencies are listed in the `requirements.txt` file and can be installed with a single command as shown in step 3 above.  
+All dependencies are listed in the `requirements.txt` file and can be installed with a single command (see above).  
 
 ---
 
@@ -100,4 +99,3 @@ All dependencies are listed in the `requirements.txt` file and can be installed 
 
 ### **Data Handling**  
 - Import and load data using **Pandas**.  
--
