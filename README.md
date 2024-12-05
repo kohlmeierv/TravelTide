@@ -95,7 +95,10 @@ All dependencies are listed in the `requirements.txt` file and can be installed 
 
 ---
 
-# Goals for This Notebook  
+### Goals for this Notebook  
 
-### **Data Handling**  
-- Import and load data using **Pandas**.  
+- **Understand and Explore Data**: Conduct exploratory data analysis to assess the dataset's structure, detect patterns, and address any anomalies.  
+- **Prepare Data for Analysis**: Clean, preprocess, and transform the dataset, ensuring it is ready for machine learning workflows.  
+- **Apply Clustering Techniques**: Use the KMeans algorithm to perform customer segmentation based on behavioral features.  
+- **Evaluate Clustering Results**: Assess the quality of the clusters using metrics like the silhouette score and interpret their practical implications.  
+- **Provide Insights and Next Steps**: Derive actionable insights from the clusters and outline potential future directions for improving the analysis.  
